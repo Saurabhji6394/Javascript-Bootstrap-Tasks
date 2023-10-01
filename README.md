@@ -1,7 +1,7 @@
 # Bootstrap-JavaScript-MERN-Taskss
 # Info
-1) Name: MRITUNJAY KUMAR
-2) Reg No: 21BCE10897
+1) Name: SAURABH MISHRA
+2) Reg No: 21BCE10737
 
 
 # Details
